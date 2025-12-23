@@ -1,20 +1,15 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+<!-- [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)-->
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Bachelor's degree of Computer Science in Macau at the Faculty of Data Science, City University of Macau.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>wing.zt.lin@gmail.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**City University of Macau**, Bachelor of Computer Science (2023 – 2027)  
+• GPA: 3.84/4.00  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+LLM in Games, Medical Artificial Intelligence, Brain-inspired Computing, Embodied Intelligence.

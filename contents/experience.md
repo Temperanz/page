@@ -1,21 +1,22 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Research Assistant**  
+**May 2025 – August 2025 | Institute of Artificial Intelligence in Medical Applications, Science and Technology Innovation Research Center, Guangdong Second Provincial People's Hospital**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Assisted in debugging and optimizing algorithms and models for responsible research projects, independently completed the development of a dengue fever detection kit strip recognition project based on YOLO, and assisted in writing literature reviews in related fields, etc.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Jointly developed the "Cardiovascular Large Model" with team members.
+- Developed a practical applet for dengue fever kit recognition.
+- Assisted in large model testing and optimization.
+
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **科研助理**  
+**2025年5月 – 2025年8月 |  广东省第二人民医院 科技创新研究中心 人工智能医疗应用研究所**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+协助完成负责科研项目之算法与模型的调试与优化工作、独立完成基于 YOLO 的登革热检测试剂盒条带识别项目开发、协助完成相关领域的文献综述撰写等。
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 和团队成员共同开发“心血管大模型”。  
+- 开发实用的登革热试剂盒识别小程序。  
+- 辅助进行大模型测试与调优。
